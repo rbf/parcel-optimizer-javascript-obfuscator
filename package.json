@@ -1,6 +1,6 @@
 {
   "name": "@rbf/parcel-optimizer-javascript-obfuscator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Optimizer plugin for ParcelJS v2 to obfuscate JavaScript files using javascript-obfuscator.",
   "main": "src/index.js",
   "keywords": [

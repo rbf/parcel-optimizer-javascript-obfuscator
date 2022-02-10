@@ -11,7 +11,7 @@ which as of this writing, is not compatible with ParcelJS v2.
 
 You can specify the
 [options](https://github.com/javascript-obfuscator/javascript-obfuscator#javascript-obfuscator-options)
-for `javascript-obfuscator` in a file named `.javascript-obfuscator.config.json`
+for `javascript-obfuscator` in a file named `javascript-obfuscator.config.json`
 at the root of your project.
 
 ### Example

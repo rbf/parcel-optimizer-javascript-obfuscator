@@ -8,7 +8,7 @@ module.exports = new Optimizer({
   // DOC: https://parceljs.org/plugin-system/authoring-plugins/#loading-configuration
   async loadConfig({config}) {
     let javaScriptObfuscatorConfig = await config.getConfig([
-      ".javascript-obfuscator.config.json"
+      "javascript-obfuscator.config.json"
     ]);
 
     if (javaScriptObfuscatorConfig !== null) {

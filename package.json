@@ -1,0 +1,27 @@
+{
+  "name": "@rbf/parcel-optimizer-javascript-obfuscator",
+  "version": "0.1.0",
+  "description": "Optimizer plugin for ParcelJS v2 to obfuscate JavaScript files using javascript-obfuscator.",
+  "main": "src/index.js",
+  "keywords": [
+    "parcel",
+    "parceljs",
+    "parcel-optimizer",
+    "parcel-plugin",
+    "obfuscation",
+    "javascript-obfuscator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbf/parcel-optimizer-javascript-obfuscator.git"
+  },
+  "author": "https://github.com/rbf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbf/parcel-optimizer-javascript-obfuscator/issues"
+  },
+  "homepage": "https://github.com/rbf/parcel-optimizer-javascript-obfuscator#readme",
+  "dependencies": {
+    "javascript-obfuscator": "3.2.5"
+  }
+}
